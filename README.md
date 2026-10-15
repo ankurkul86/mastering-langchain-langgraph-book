@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ### 5. Configure Environment Variables (`.env`)
 
-Many notebooks require API credentials from model providers (OpenAI, Anthropic, Google Gemini, Groq, Mistral) and utility services (LangSmith, Tavily).
+Many notebooks require API credentials from model providers (OpenAI, Anthropic, Google Gemini, Groq, Mistral) and search services (Tavily).
 
 1. Copy the sample environment file:
    ```bash
@@ -103,13 +103,6 @@ GEMINI_API_KEY="your-gemini-api-key-here"
 MISTRAL_API_KEY="your-mistral-api-key-here"
 GROQ_API_KEY="your-groq-api-key-here"
 HUGGINGFACEHUB_API_TOKEN="your-huggingface-token-here"
-
-# ==========================================
-# Observability & Tracing (LangSmith)
-# ==========================================
-LANGCHAIN_API_KEY="your-langchain-api-key-here"
-LANGCHAIN_TRACING_V2="true"
-LANGCHAIN_PROJECT="mastering-langchain-langgraph"
 
 # ==========================================
 # Search & External Tools
