@@ -17,6 +17,12 @@ For book overview, table of contents, and updates, visit the official website:
 
 ## 📖 About The Book
 
+<p align="center">
+  <a href="https://masteringlangchainlanggraph.com/">
+    <img src="./langchain_langgraph_book_front_cover.png" alt="Mastering LangChain and LangGraph Book Cover" width="280" />
+  </a>
+</p>
+
 *Mastering LangChain and LangGraph* is a comprehensive, hands-on guide designed for AI engineers, data scientists, and system architects building enterprise-grade **Retrieval-Augmented Generation (RAG)** systems and **Agentic AI** workflows.
 
 From fundamental LLM integrations and prompt engineering to complex multi-agent architectures, cyclic graph workflows, Model Context Protocol (MCP) integrations, human-in-the-loop state machines, and streaming pipelines, this repository provides production-ready code examples covering the latest **LangChain v1.0** and **LangGraph v1.0** ecosystems.
