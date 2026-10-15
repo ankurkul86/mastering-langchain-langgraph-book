@@ -38,8 +38,8 @@ Follow the steps below to set up your local development environment.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Mastering_Source_Code.git
-cd Mastering_Source_Code
+git clone https://github.com/ankurkul86/mastering-langchain-langgraph-book.git
+cd mastering-langchain-langgraph-book
 ```
 
 ---
